@@ -5,5 +5,8 @@
 
 <h1 align="center">Hi! I'm abaoa.</h1>
 
+<span id="jinrishici-sentence">正在加载今日诗词....</span>
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+
 ![](https://raw.githubusercontent.com/abaoa/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/abaoa/github-stats-transparent/output/generated/languages.svg)
