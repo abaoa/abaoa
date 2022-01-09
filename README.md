@@ -1,6 +1,7 @@
 <html>
+  <head><meta charset="UTF-8">
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
-
+</head>
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:abaoa"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
